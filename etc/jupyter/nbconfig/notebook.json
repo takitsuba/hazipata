@@ -1,0 +1,6 @@
+{
+  "load_extensions": {
+    "jupyter-js-widgets/extension": true,
+    "rise/main": true
+  }
+}
